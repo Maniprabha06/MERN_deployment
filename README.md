@@ -1,7 +1,7 @@
 # MERN_deployment
 Deploying a MERN Full stack project using docker-compose
 
-![Screenshot 2025-04-14 020705](https://github.com/user-attachments/assets/2f85e4ef-6e41-4c62-b51d-9a61e1e3d3f0)
+![Screenshot 2025-04-14 020649](https://github.com/user-attachments/assets/f133c16f-4e19-4312-a21a-980383a17622)
 
 
 ![Screenshot 2025-04-14 020705](https://github.com/user-attachments/assets/b46b95b8-6ec0-46a0-8ba3-5ba63c45facf)
